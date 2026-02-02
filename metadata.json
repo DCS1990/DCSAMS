@@ -1,0 +1,5 @@
+{
+  "name": "Asset Manager Pro Connect to supabase ",
+  "description": "A web application for asset management, inspired by Snipe-IT. Track and manage your physical assets, see who has what, and monitor asset status in a clean, modern interface.",
+  "requestFramePermissions": []
+}
